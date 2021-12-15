@@ -1,4 +1,4 @@
-// Yonwoo Choi, yc4ny CS 2110 HW4
+// Yonwoo Choi
  
 import java.util.ArrayList;
 import java.util.HashSet;
